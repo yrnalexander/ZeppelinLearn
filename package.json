@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/yrnalexander/ZeppelinLearn/issues"
   },
-  "homepage": "https://github.com/yrnalexander/ZeppelinLearn#readme"
+  "homepage": "https://github.com/yrnalexander/ZeppelinLearn#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "chai": "^4.3.6",
+    "ethers": "^5.6.4",
+    "hardhat": "^2.9.3"
+  }
 }
